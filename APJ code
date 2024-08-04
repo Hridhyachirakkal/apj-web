@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Program one</title>
+  <link rel="stylesheet" href="stylesheeetss.css">
+</head>
+<body>
+    <h1 style="text-align:center">A.P.J.ABDUL KALAM </h1>
+    <h2 style="text-align :center">Missile man of India</h2>
+    <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/1200px-A._P._J._Abdul_Kalam.jpg" width="400" height="100%" alt="APJ Abdulkalam" class="center"></a>
+    <h3 style="font-size:30px">About</h3>
+    <p><a href="#C4">Early life and education</a></p>
+    <hr>
+    <p>Avul Pakir Jainulabdeen Abdul Kalam BR (/ˈəbdʊl kəˈlɑːm/ ⓘ; <span class="colored">15 October 1931 – 27 July 2015)</span> was an Indian aerospace scientist and statesman who served as the <span class="colored">11th president of India</span>from 2002 to 2007. Born and raised in a Muslim family in Rameswaram, Tamil Nadu, he studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the <a href="http://www.drdo.gov.in/">Defence Research and Development Organisation (DRDO)</a> and <a href="https://www.isro.gov.in/" >Indian Space Research Organisation (ISRO) </a> and was intimately involved in India's civilian space programme and military missile development efforts.[1] He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology.[2][3][4] He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.[5]
+
+        Kalam was elected as the 11th president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress. Widely referred to as the <mark>"People's President"</mark>,[6] he returned to his civilian life of education, writing and public service after a single term. He was a recipient of several prestigious awards, including the Bharat Ratna, India's highest civilian honour.
+        
+        While delivering a lecture at the Indian Institute of Management Shillong, Kalam collapsed and died from an apparent cardiac arrest on 27 July 2015, aged 83.[7] Thousands, including national-level dignitaries, attended the funeral ceremony held in his hometown of Rameswaram, where he was buried with full state honours.[8]</p>
+        
+        <h4 id="C4">Early life and education</h4>
+        <p>Avul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931, to a Tamil Muslim family in the pilgrimage centre of Rameswaram on Pamban Island, then in the Madras Presidency and now in the State of Tamil Nadu. His father Jainulabdeen Marakayar was a boat owner and imam of a local mosque;[9] his mother Ashiamma was a housewife.[10][11][12][13] His father owned a ferry that took Hindu pilgrims back and forth between Rameswaram and the now uninhabited Dhanushkodi.[14][15]
+        
+        Kalam was the youngest of four brothers and one sister in his family.[16][17][18] His ancestors had been wealthy Marakayar traders and landowners, with numerous properties and large tracts of land. Marakayar are a Muslim ethnic group found in coastal Tamil Nadu and Sri Lanka who claim descent from Arab traders and local women. The family business had involved trading groceries between the mainland and the island and to and from Sri Lanka, as well as ferrying pilgrims between the mainland and Pamban. With the opening of the Pamban Bridge to the mainland in 1914, however, the businesses failed and the family fortune and properties were lost by the 1920s, apart from the ancestral home. The family was poverty-stricken by the time Kalam was born. As a young boy he had to sell newspapers to add to the family's meager income. [19][20][21]
+        
+        In his school years, Kalam had average grades but was described as a bright and hardworking student who had a strong desire to learn. He spent hours on his studies, especially Mathematics.[21] After completing his education at Schwartz Higher Secondary School, Ramanathapuram, Kalam went on to attend the St. Joseph's College, Tiruchirappalli from where he graduated in <span class="colored">Physics in 1954.[22]</span>
+        
+        Kalam moved to Madras in 1955 to study aerospace engineering in Madras Institute of Technology.[13] While Kalam was working on a senior class project, the Dean was dissatisfied with his lack of progress and threatened to revoke his scholarship unless the project was finished within the next three days. Kalam met the deadline, impressing the Dean, who later said to him, "I was putting you under stress and asking you to meet a difficult deadline."[23] He narrowly missed achieving his dream of becoming a fighter pilot, as he placed ninth in qualifiers, and only eight positions were available in the IAF.[24]</p>
+        <h4>Career as a scientist</h4>
+        <p>This was my first stage, in which I learnt leadership from three great teachers—Dr Vikram Sarabhai, Prof Satish Dhawan and Dr Brahm Prakash. This was the time of learning and acquisition of knowledge for me.
+        
+        A P J Abdul Kalam[25]
+        
+        After graduating from the <span class="colored">Madras Institute of Technology</span> in 1960, Kalam joined the Aeronautical Development Establishment of the Defence Research and Development Organisation (by Press Information Bureau, Government of India) as a scientist after becoming a member of the<span class="colored">Defence Research & Development Service (DRDS)</span>. He started his career by designing a small hovercraft, but remained unconvinced by his choice of a job at DRDO.[26] Kalam joined the INCOSPAR, working under Vikram Sarabhai, the renowned space scientist.[13] He was interviewed and recruited into ISRO by H. G. S. Murthy, the first Director of Thumba Equatorial Rocket Launching Station (TERLS).[27] In 1969, Kalam was transferred to the <span class="colored"><abbr title="Indian Space Research Organisation"><a href="https://www.nasa.gov/" >ISRO</a></abbr></span> where he was the project director of India's first Satellite Launch Vehicle (SLV-III) which successfully deployed the Rohini satellite in near-earth orbit in July 1980; Kalam had first started work on an expandable rocket project independently at DRDO in 1965.[1] In 1969, Kalam received the government's approval and expanded the programme to include more engineers.[25]</p>
+        <p>Several educational and scientific institutions and other locations were renamed or named in honour of Kalam following his death.
+          <ul class="unordered">
+          <li><a href="https://ktu.edu.in/">Kerala Technological University</a>, headquartered at Thiruvananthapuram where Kalam lived for years, was renamed to A P J Abdul Kalam Technological University after his death.</li>
+            <li>An agricultural college at Kishanganj, Bihar, was renamed the <a href="https://bausabour.ac.in/">Dr. Kalam Agricultural College, Kishanganj</span> by the Bihar state government on the day of Kalam's funeral</li>.<li>The state government also announced it would name a proposed science city after Kalam.[162]
+            <li>India's First Medical Tech Institute named as Kalam Institute of Health Technology located at Visakhapatnam.[163]</li>
+            <li><a href="https://uptac.admissions.nic.in/">Uttar Pradesh Technical University (UPTU) </a>was renamed A. P. J. Abdul Kalam Technical University by the Uttar Pradesh state government.[164]</li>
+            <li> A. P. J. Abdul Kalam Memorial Travancore Institute of Digestive Diseases, a new research institute in Kollam city, Kerala attached to the Travancore Medical College Hospital.[165]</li>
+         </ul>
+        </p>
+        <br>
+        <br>
+        <button onclick="document.location='https://chatgpt.com/'"> Access Chatgpt</button><br>
+        <button onclick="window.open('https://chatgpt.com/','_blank')">chatgt</button><br>
+        <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"  title="APJ ABDULKALAM" target="_blank " class="large-link">Wikipedia</a><br>
+        <p><a href="mailto:chirakkalhridhya240@gmail.com">send email</a></p>
+        <br>   
+      </body>
+
+</html>
